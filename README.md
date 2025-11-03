@@ -4,23 +4,20 @@ Donanım-yazılım entegrasyonu, makine öğrenmesi ve yapay sinir ağları (öz
 
 Kendimi ileri seviye bir uzman olarak görmüyorum ama konulara hâkimim ve üzerine konuşabilecek, projelere uygulayabilecek düzeyde bilgi sahibiyim.
 
-Öğrenmenin en iyi yolunun “yaparak öğrenmek” olduğuna inanıyorum — bu yüzden projelerimde teoriyle pratiği birleştirmeye çalışıyorum.
-
-Projelerim genellikle deneme-yanılma, fikir ispatı (proof-of-concept) veya öğrenme süreçlerimden oluşuyor.
 
 Geri bildirimleri memnuniyetle karşılarım.
 
 — Ali
 
 En:
-Hi there 👋
-I’m Ali Arhan İla, an electronics & software I enjoy exploring hardware-software integration, machine learning, and neural networks.
+Hi there 👋  
+I’m Ali Arhan İla — an electronics & software enthusiast.  
+I enjoy exploring hardware-software integration, machine learning, and neural networks.  
 
-I wouldn’t call myself an advanced expert (yet), but I’m comfortable talking through and working with key concepts such as convolutional neural networks (CNNs), feedforward artificial neural networks (ANNs), and end-to-end data pipelines. I believe in learning by doing and I’m always pushing myself to turn theory into working code.
+I wouldn’t call myself an advanced expert (yet), but I’m comfortable working with key concepts such as convolutional neural networks (CNNs), multilayer perceptrons (MLPs), and end-to-end data pipelines.  
+I believe in learning by doing and I’m always pushing myself to turn theory into working code.
 
-I invite you to browse my projects: many of them are experiments, proofs-of-concept, or learning journeys — feedback is very welcome.
-
-Let’s connect and collaborate!
+Let’s connect and collaborate!  
 
 — Ali
 
