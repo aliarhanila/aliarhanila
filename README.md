@@ -22,7 +22,7 @@ Let’s connect and collaborate!
 — Ali
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aliarhanila/" target="_blank">
+  <a href="https://tr.linkedin.com/in/ali-arhan-ila-693a2830b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
 </p>
