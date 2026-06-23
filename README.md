@@ -34,13 +34,6 @@ Bridging the physical world with the digital one. I work on extracting meaningfu
 * Algorithmic Audio Manipulation & Saturation Models
 * Hardware-Software Integration & Circuit Design
 
-### 🌌 Data Visualization & Physical Simulation
-Taking complex mathematical or quantum physics concepts and writing custom pipelines to visualize them realistically.
-* Mathematical & Physics-based Simulations
-* 3D Volumetric Rendering & Spatial Data Mapping
-
----
-
 ## 🚀 Currently Exploring...
 * Diving deeper into **Bare-Metal C** programming and register-level operations.
 * Developing methodologies for **Edge AI** applications, specifically focusing on running audio processing and inference tasks directly on ESP32 microcontrollers.
